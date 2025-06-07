@@ -8,8 +8,6 @@ Author: Toby LUO@ZHKU (903098625@qq.com)
 Copyright (c) 2025 Toby LUO@ZHKU (903098625@qq.com)
 License: MIT License
 
-基于《How to Read Non-Fiction English Books for Chinese English Majors》研究文献开发
-
 GitHub: https://github.com/wallfacer-web/no-fiction-reader
 """
 
