@@ -1,0 +1,4 @@
+gradio>=4.0.0
+requests>=2.25.0
+python-docx>=0.8.11
+nltk>=3.7 
