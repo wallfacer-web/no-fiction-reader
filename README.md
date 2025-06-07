@@ -85,7 +85,7 @@ MIT License
 
 ## 🙏 致谢
 
-本项目基于《How to Read Non-Fiction English Books for Chinese English Majors》研究文献开发，感谢相关研究者的理论贡献。
+感谢开源社区和相关技术贡献者的支持。
 
 ---
 
